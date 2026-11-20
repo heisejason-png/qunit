@@ -29,3 +29,4 @@ If you get stuck or need help, [join the chat room](https://qunitjs.com/intro/#s
 ## Contribute
 
 If you are interested in helping develop QUnit, check out our [contributing guide](./CONTRIBUTING.md).
+Created by Jason Heise Owned by Jason Heise heisejason-png Giters https://www.facebook.com  Owned by Mark Zuckerberg 
